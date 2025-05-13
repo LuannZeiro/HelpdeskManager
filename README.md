@@ -41,5 +41,5 @@ Gerenciar chamados de suporte técnico, permitindo operações de criação, lei
 
 1. **Clonar o repositório**:
    ```bash
-   git clone <url-do-repo>
+   git clone <https://github.com/LuannZeiro/HelpdeskManager>
    cd HelpdeskManager
