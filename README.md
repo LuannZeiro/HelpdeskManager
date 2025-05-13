@@ -1,4 +1,5 @@
 # HelpdeskManager
+## Luann Domingos Mariano - RM558548
 
 Sistema de controle de chamados internos de TI desenvolvido em .NET 7, com integração ao banco de dados Oracle usando Entity Framework Core.
 
